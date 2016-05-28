@@ -1,0 +1,114 @@
+@CHARSET "ISO-8859-1";
+
+#fotoselchato {
+	width: 150px;
+	height: 150px;
+	border: 2px solid orange;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#fotositclass {
+	width: 180px;
+	height: 140px;
+	border: 2px solid orange;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#fotosplatcorp {
+	width: 180px;
+	height: 130px;
+	border: 2px solid orange;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#contactoelchato {
+	float: left;
+	margin: 35px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#contactoitclass {
+	float: left;
+	margin: 40px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#contactoplatcorp {
+	float: left;
+	margin: 10px;
+	margin-bottom: 120px;
+	font-weight: bold;
+	text-align: center;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+#main-footer, #main-footer2 {
+	float: left;
+	margin-bottom: 0%;
+	margin-right: 20px;
+	margin-left: 160px;
+}
+
+#elchato, #itclass, #platcorp {
+	margin-left: 8%;
+	margin-right: 2%;
+}
+
+#itclass {
+	margin-top: 5px;
+	margin-left: 260px;
+}
+
+#platcorp {
+	margin-top: 120px;
+	margin-left: 150px;
+}
+
+#grupoLogos {
+	margin-left: 230px;
+}
+
+#main-header, #main-content {
+	text-align: center;
+}
+
+body {
+	background-image:
+		url("http://www.v3wall.com/wallpaper/1600_1200/1007/1600_1200_20100708095921269377.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#logochato {
+	float: left;
+	margin-top: 10px;
+	margin-right: 55px;
+}
+
+#logoitclassimagen {
+	width: 200px;
+	height: 200px;
+}
+
+#logoitclass {
+	float: left;
+	margin-left: 50px;
+}
+
+#logoplatcorp {
+	float: left;
+	margin-top: 55px;
+	margin-left: 55spx;
+}
